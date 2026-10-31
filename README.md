@@ -57,6 +57,8 @@ The plugin also ships a `pinnacle-odds` skill that tells the agent which tool to
 - Server URL: https://pinnwire.com/mcp
 - Support: support@pinnwire.com
 
+Logo is PinnWire's official "Pw" mark, from the `Pinnwire-Pinnacle-Odds-API` GitHub organization.
+
 ## License
 
 MIT
