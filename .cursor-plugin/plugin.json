@@ -1,0 +1,36 @@
+{
+  "name": "pinnwire",
+  "displayName": "PinnWire",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Get live Pinnacle odds, price drops, and no-vig fair prices.",
+  "author": {
+    "name": "PinnWire",
+    "email": "support@pinnwire.com"
+  },
+  "publisher": "PinnWire",
+  "homepage": "https://pinnwire.com/sports-odds-mcp-server.html",
+  "repository": "https://github.com/Pinnwire-Pinnacle-Odds-API/pinnwire-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "pinnwire",
+    "pinnacle",
+    "odds",
+    "sports-betting",
+    "dropping-odds",
+    "no-vig",
+    "sports-data",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "pinnwire",
+    "odds",
+    "sports-betting",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
